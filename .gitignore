@@ -13,3 +13,9 @@ script-exe/pyvenv.cfg
 script-exe/Scripts/wheel.exe
 script-exe/Scripts/f2py.exe
 script-exe/Scripts/numpy-config.exe
+script-exe/Scripts/pyi-archive_viewer.exe
+script-exe/Scripts/pyi-bindepend.exe
+script-exe/Scripts/pyi-grab_version.exe
+script-exe/Scripts/pyi-makespec.exe
+script-exe/Scripts/pyi-set_version.exe
+script-exe/Scripts/pyinstaller.exe
