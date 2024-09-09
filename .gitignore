@@ -10,3 +10,6 @@ script-exe/Scripts/Activate.ps1
 script-exe/Scripts/activate.bat
 script-exe/Scripts/activate
 script-exe/pyvenv.cfg
+script-exe/Scripts/wheel.exe
+script-exe/Scripts/f2py.exe
+script-exe/Scripts/numpy-config.exe
